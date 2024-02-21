@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 
-  clientSecret: 
+  clientID: 1db89cc7bf107faf4b05
+  clientSecret: 49dc4fcf49df00823fcab300c8d4cf20732697fc
   repo: suangshuo.github.io
   owner: suangshuo
 

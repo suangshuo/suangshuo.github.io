@@ -1,4 +1,12 @@
-# 在 neovim 中使用 Lua
+---
+layout : post
+title : "nvim_lua_guide中文版"
+date: 2024-2-27
+tags: [教程]
+comments: true
+author: Neovim Core Development
+---
+# 在 neovim 中使用 Lua (转载)
 
 **在neovim 0.9版本中添加了lua教程，如果你使用该版本的neovim可以使用 `:h lua-guide` 查看**
 **对于英文不好的同学那么此文档对你仍然有用**
